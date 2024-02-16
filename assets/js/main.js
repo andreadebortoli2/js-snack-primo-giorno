@@ -14,6 +14,8 @@ let PI = 3.14;   //number
 
 console.log(PI);
 
+// console.log(Math.PI);
+
 
 // Esercizio 2/B
 
@@ -39,3 +41,27 @@ let name = "Carlo";   //string
 name = "Marco";   //string
 
 console.log(name);
+
+
+// Esercizio 4
+
+const temperature = 22.5;   //number
+
+console.log(temperature + 5)
+
+
+// Esercizio 5
+
+/*
+PI 3.14 è il π
+si può non dichiarare utilizzando la costante preimpostata Math.PI 
+*/
+
+console.log(Math.PI)
+
+// Esercizio 6
+
+console.info('Hi')
+
+/* 
+console.info() può essere usata solo per lasciare messaggi in console, mentre console.log() può gestire variabili e objects */
