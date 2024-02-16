@@ -1,4 +1,4 @@
-// console.log("Hi")
+// console.log("Hi");
 
 // Esercizio 1
 
@@ -24,4 +24,12 @@ console.log(PI);
 
 
 // Esercizio 2/C
+
+const radius = 8;
+
+const circle = (radius * 2 * PI);
+
+console.log(circle);
+
+
 // Esercizio 3
