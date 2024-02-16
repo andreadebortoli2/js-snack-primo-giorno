@@ -33,3 +33,9 @@ console.log(circle);
 
 
 // Esercizio 3
+
+let name = "Carlo";
+
+name = "Marco";
+
+console.log(name);
